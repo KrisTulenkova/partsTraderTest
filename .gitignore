@@ -1,0 +1,7 @@
+.idea
+*.iml
+m2/*
+tests/target/*
+.DS_Store
+# Project exclude paths
+/target/
